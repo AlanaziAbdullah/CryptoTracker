@@ -233,11 +233,6 @@ const Home = () => {
               }}
             >
               Top Coins
-              {/* <Ionicons
-                name="logo-bitcoin"
-                size={24}
-                color={GlobalColors.colors.special}
-              /> */}
             </Text>
             <View style={{}}>
               {data.length > 0 ? (
